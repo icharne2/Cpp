@@ -1,5 +1,6 @@
 # C++
-A collection of C++ algorithm implementations
+A collection of C++ algorithm implementations.
+
 In "Numerical methods":
 - "lagrange_interpolation" - Implementation of Lagrange interpolation, which approximates a function based on given points and calculates the function value at a specified point, with input data read from a file.
 - "newton_interpolation" - Implementation of Newton interpolation, which approximates a function based on given points and calculates the function value at a specified point, with input data read from a file.
